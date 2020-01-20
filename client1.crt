@@ -1,0 +1,97 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, ST=Shanxi, L=Taiyuan, O=WDNMD, OU=NaoBuQing, CN=WDNMD CA/name=server/emailAddress=19950529zz@gmail.com
+        Validity
+            Not Before: Dec  4 15:20:33 2019 GMT
+            Not After : Dec  1 15:20:33 2029 GMT
+        Subject: C=CN, ST=Shanxi, L=Taiyuan, O=WDNMD, OU=NaoBuQing, CN=client1/name=server/emailAddress=19950529zz@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ba:84:8c:c1:50:cf:98:fd:08:77:4b:e9:17:50:
+                    77:81:58:5a:4a:96:6b:fb:bb:a1:71:01:b0:4a:05:
+                    15:8b:e8:06:93:e6:76:f2:94:cf:35:bd:84:b0:18:
+                    d0:ee:cf:36:74:08:39:20:4c:09:35:08:9f:46:45:
+                    b0:f2:38:c6:03:4a:8d:b7:b0:8a:26:3e:64:9c:e8:
+                    55:dd:04:58:bb:94:0f:5d:72:1c:c8:46:12:73:4f:
+                    13:12:e4:9b:91:ec:35:a4:8c:92:58:7b:46:ff:b7:
+                    e3:23:19:a6:e1:a2:f0:6a:1f:a1:fb:1c:69:fb:99:
+                    74:71:87:4c:0a:b1:14:b5:f2:8c:5f:1a:05:6a:2d:
+                    79:26:a9:f4:df:31:fd:a3:a1:6c:97:24:19:57:bc:
+                    ba:87:eb:e0:84:3d:77:9d:88:6a:cd:f5:63:c8:79:
+                    4c:ce:bd:d4:5a:91:86:07:7d:62:d6:e5:4a:08:c0:
+                    f9:65:67:57:95:8b:c0:fc:0b:61:14:7c:a0:3b:a0:
+                    69:e2:e3:ab:f2:69:88:f8:a9:bb:8f:9e:f1:37:08:
+                    df:3f:09:5b:85:74:08:c5:e3:33:93:07:1f:1e:2e:
+                    9e:d0:5f:fb:de:98:13:0f:c7:2b:bb:34:9d:f7:24:
+                    6b:9a:0e:3b:46:75:1d:ca:e0:df:7a:7a:6f:ff:e3:
+                    ff:53
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints:
+                CA:FALSE
+            Netscape Comment:
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier:
+                F6:87:0D:4A:27:BB:FF:80:79:67:93:DF:F0:4B:4B:88:BE:7E:71:27
+            X509v3 Authority Key Identifier:
+                keyid:92:47:C4:9A:A0:9B:6D:28:EA:BB:19:C6:D7:88:1D:BE:71:9B:B1:79
+                DirName:/C=CN/ST=Shanxi/L=Taiyuan/O=WDNMD/OU=NaoBuQing/CN=WDNMD CA/name=server/emailAddress=19950529zz@gmail.com
+                serial:82:68:9B:99:C4:EA:EE:57
+
+            X509v3 Extended Key Usage:
+                TLS Web Client Authentication
+            X509v3 Key Usage:
+                Digital Signature
+            X509v3 Subject Alternative Name:
+                DNS:client1
+    Signature Algorithm: sha256WithRSAEncryption
+         98:66:06:98:9d:27:9d:32:9b:2b:77:fa:19:aa:1f:a0:0f:b6:
+         20:f0:d5:c6:f8:50:40:2a:0d:2a:29:4a:0b:4c:e2:16:63:b7:
+         5d:8d:a5:66:42:eb:70:ea:db:2f:ad:fe:1f:ff:fb:7e:28:c6:
+         b8:23:b9:fd:17:24:4b:9a:38:e1:df:7d:2e:36:3d:d1:35:16:
+         8d:ea:e6:0d:4e:aa:18:02:3a:f4:ba:e9:e3:2a:01:4d:52:b3:
+         26:f0:ec:4f:08:c1:64:cb:d0:21:db:13:74:99:24:99:96:1e:
+         a6:1c:42:d3:6c:7e:70:11:3e:89:f1:42:35:53:91:43:c2:04:
+         80:c1:1f:73:48:04:96:31:93:a4:c0:fc:78:51:8e:73:14:5d:
+         c2:cd:3d:f4:c3:0e:2b:fc:c4:07:55:22:c0:a0:bf:fe:1a:d1:
+         5c:61:08:32:8c:e3:d7:68:4f:bf:01:8b:3c:38:e4:88:ea:08:
+         9a:34:2c:1e:d5:bb:b3:a6:b8:45:bf:dd:4d:21:da:56:b5:bc:
+         41:37:ac:de:5a:e8:7c:bd:fa:a9:12:70:d2:c2:15:b9:23:a4:
+         6a:e4:0b:5f:fd:05:9f:86:23:a0:58:a1:c1:d4:9f:a6:5a:54:
+         bc:eb:25:44:b0:92:7a:c2:0e:88:eb:77:a4:68:1c:ae:6b:15:
+         8b:ce:91:c4
+-----BEGIN CERTIFICATE-----
+MIIFIDCCBAigAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBnTELMAkGA1UEBhMCQ04x
+DzANBgNVBAgTBlNoYW54aTEQMA4GA1UEBxMHVGFpeXVhbjEOMAwGA1UEChMFV0RO
+TUQxEjAQBgNVBAsTCU5hb0J1UWluZzERMA8GA1UEAxMIV0ROTUQgQ0ExDzANBgNV
+BCkTBnNlcnZlcjEjMCEGCSqGSIb3DQEJARYUMTk5NTA1Mjl6ekBnbWFpbC5jb20w
+HhcNMTkxMjA0MTUyMDMzWhcNMjkxMjAxMTUyMDMzWjCBnDELMAkGA1UEBhMCQ04x
+DzANBgNVBAgTBlNoYW54aTEQMA4GA1UEBxMHVGFpeXVhbjEOMAwGA1UEChMFV0RO
+TUQxEjAQBgNVBAsTCU5hb0J1UWluZzEQMA4GA1UEAxMHY2xpZW50MTEPMA0GA1UE
+KRMGc2VydmVyMSMwIQYJKoZIhvcNAQkBFhQxOTk1MDUyOXp6QGdtYWlsLmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALqEjMFQz5j9CHdL6RdQd4FY
+WkqWa/u7oXEBsEoFFYvoBpPmdvKUzzW9hLAY0O7PNnQIOSBMCTUIn0ZFsPI4xgNK
+jbewiiY+ZJzoVd0EWLuUD11yHMhGEnNPExLkm5HsNaSMklh7Rv+34yMZpuGi8Gof
+ofscafuZdHGHTAqxFLXyjF8aBWoteSap9N8x/aOhbJckGVe8uofr4IQ9d52Ias31
+Y8h5TM691FqRhgd9YtblSgjA+WVnV5WLwPwLYRR8oDugaeLjq/JpiPipu4+e8TcI
+3z8JW4V0CMXjM5MHHx4untBf+96YEw/HK7s0nfcka5oOO0Z1Hcrg33p6b//j/1MC
+AwEAAaOCAWgwggFkMAkGA1UdEwQCMAAwLQYJYIZIAYb4QgENBCAWHkVhc3ktUlNB
+IEdlbmVyYXRlZCBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQU9ocNSie7/4B5Z5Pf8EtL
+iL5+cScwgdIGA1UdIwSByjCBx4AUkkfEmqCbbSjquxnG14gdvnGbsXmhgaOkgaAw
+gZ0xCzAJBgNVBAYTAkNOMQ8wDQYDVQQIEwZTaGFueGkxEDAOBgNVBAcTB1RhaXl1
+YW4xDjAMBgNVBAoTBVdETk1EMRIwEAYDVQQLEwlOYW9CdVFpbmcxETAPBgNVBAMT
+CFdETk1EIENBMQ8wDQYDVQQpEwZzZXJ2ZXIxIzAhBgkqhkiG9w0BCQEWFDE5OTUw
+NTI5enpAZ21haWwuY29tggkAgmibmcTq7lcwEwYDVR0lBAwwCgYIKwYBBQUHAwIw
+CwYDVR0PBAQDAgeAMBIGA1UdEQQLMAmCB2NsaWVudDEwDQYJKoZIhvcNAQELBQAD
+ggEBAJhmBpidJ50ymyt3+hmqH6APtiDw1cb4UEAqDSopSgtM4hZjt12NpWZC63Dq
+2y+t/h//+34oxrgjuf0XJEuaOOHffS42PdE1Fo3q5g1OqhgCOvS66eMqAU1Ssybw
+7E8IwWTL0CHbE3SZJJmWHqYcQtNsfnARPonxQjVTkUPCBIDBH3NIBJYxk6TA/HhR
+jnMUXcLNPfTDDiv8xAdVIsCgv/4a0VxhCDKM49doT78Bizw45IjqCJo0LB7Vu7Om
+uEW/3U0h2la1vEE3rN5a6Hy9+qkScNLCFbkjpGrkC1/9BZ+GI6BYocHUn6ZaVLzr
+JUSwknrCDojrd6RoHK5rFYvOkcQ=
+-----END CERTIFICATE-----
